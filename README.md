@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neoezzio&label=Profile%20views&color=0e75b6&style=flat" alt="neoezzio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoezzio" alt="neoezzio" /></a> </p>
-
 - 🌱 Estudio **Ingeniería Electrónica y Telecomunicaciones.**
 
 - 👨‍💻 Mi perfil en Linkedin [https://www.linkedin.com/in/david-alejandro-ortega-fl%C3%B3rez-424a84210/](https://www.linkedin.com/in/david-alejandro-ortega-fl%C3%B3rez-424a84210/)
